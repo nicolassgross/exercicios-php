@@ -32,10 +32,7 @@
   
   3º - O que é preciso mostrar na tela e como deve ser mostrado;
   
-  3º - Verificar a necessidade de váriaveis de controle e/ou se precisam reiniciar;
+  4º - Verificar a necessidade de váriaveis de controle e/ou se precisam reiniciar;
   
-  3º - O que é preciso mostrar na tela e como deve ser mostrado;
-  
-  3º - O que é preciso mostrar na tela e como deve ser mostrado;
   
   
