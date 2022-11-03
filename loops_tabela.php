@@ -7,7 +7,7 @@
 <body>
 
 	<h1>Tabela LOOPS</h1>
-<!-- Criação da tabela   tr = linha   td =  coluna -->
+	
 	<table border="1"> 
 		<tr bgcolor="#ccc">
 			<td width="100">#ID</td>
