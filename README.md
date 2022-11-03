@@ -24,6 +24,8 @@
   
   - Se preocupar com o conceito de "Responsabilidade única" no desenvolvimento de funções, classes...
   
+  - Sempre que criar uma função já testar, se possível com unit de teste.
+  
   BLOCOS DE DESENVOLVIMENTO:
   
   1º - Quais váriaveis são necessárias inicializar e se precisam ter um valor inicial?;
